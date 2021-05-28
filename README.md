@@ -11,5 +11,14 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
 
 ![Schermata 2021-05-27 alle 08 03 52](https://user-images.githubusercontent.com/65971321/119775960-9bb30400-bec4-11eb-9812-3837641981bd.png)
 
+## Contracts Address
+
+Migrations: 0xDbA8A4AcBa7C9724027825A379713F741007a632
+FarmerRole: 0x955183AC34c6dfDFB6df1a93AdC737f1736e1341
+DistributorRole: 0x465076a1E36a8e730FF028E54F3693CF5bA1d1F6
+RetailerRole: 0x85f695B6D466A0786DC5Cff5cf33DB54181C322C
+ConsumerRole: 0x9FbE2BF94f482CDCE891194A214f8d8653Be8838
+SupplyChain: 0x56352F80BD36F641D38C46d5b6BC05fBC6d6ba49
+
 
 
