@@ -20,5 +20,12 @@ RetailerRole: 0x85f695B6D466A0786DC5Cff5cf33DB54181C322C
 ConsumerRole: 0x9FbE2BF94f482CDCE891194A214f8d8653Be8838
 SupplyChain: 0x56352F80BD36F641D38C46d5b6BC05fBC6d6ba49
 
+## Libraries
+
+Truffle v5.3.7 (core: 5.3.7)
+Solidity - ^0.4.24 (solc-js)
+Node v15.4.0
+Web3.js v1.3.6
+
 
 
